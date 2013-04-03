@@ -1,9 +1,9 @@
-# Libreoffice Puppet Module for Boxen
+# Mozilla Thunderbird Puppet Module for Boxen
 
 ## Usage
 
 ```puppet
-include libreoffice
+include thunderbird
 ```
 
 ## Required Puppet Modules
